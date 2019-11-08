@@ -1,3 +1,4 @@
+"use strict";
 var organizedArray = [0, 'texto', false];
 var myArray;
 myArray = [0, 'texto', false];

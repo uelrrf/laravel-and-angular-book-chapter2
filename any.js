@@ -1,3 +1,4 @@
+"use strict";
 var band;
 band = {
     name: 'Motorhead',

@@ -6,5 +6,6 @@ var bands;
 })(bands || (bands = {}));
 ;
 console.log(bands);
-var minhasBandasFavoritas = bands.JotaQuest;
+var minhasBandasFavoritas = bands.;
+'1';
 console.log(minhasBandasFavoritas);
